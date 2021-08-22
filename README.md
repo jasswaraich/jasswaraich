@@ -1,5 +1,5 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am ML Engineer @[BlackBerry](https://www.blackberry.com/us/en).Interested in AI/ML Systems and Software Engineering in general.
-#### Get in [touch](mailto:jass.waraich@icloud.com)<img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif?cid=ecf05e47iz8ahrex574z6m3j7n6vdwg460frf44f5rb74mtq&rid=giphy.gif&ct=g" height="20px">
+#### Get in [touch](mailto:jass.waraich@icloud.com)<img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif?cid=ecf05e47iz8ahrex574z6m3j7n6vdwg460frf44f5rb74mtq&rid=giphy.gif&ct=g" height="20">
 
 <a href="https://www.linkedin.com/in/iamjaspreet/">
   <img align="left" alt="Jaspreet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
