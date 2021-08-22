@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-<img height=400 width=400 align="right" src="assets/images/ai.gif" alt="ai gif" />
+<img height=350 width=350 align="right" src="assets/images/ai.gif" alt="ai gif" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasswaraich&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
