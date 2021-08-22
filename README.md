@@ -9,11 +9,12 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jasswaraich.jasswaraich)
 
+<img align="right" src="assets/images/ai2.gif" alt="ai gif" width=100/>
 <img align="right" src="assets/images/ai.gif" alt="ai gif" width=100/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasswaraich&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasswaraich&theme=synthwave "Jaspreet's Lang card")
+
 <!---
 jasswaraich/jasswaraich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
