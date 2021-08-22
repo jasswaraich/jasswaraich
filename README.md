@@ -9,7 +9,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jasswaraich.jasswaraich)
 
-|<img align="right" src="assets/images/ai2.gif" alt="ai gif" width=100/>
+|<img align="right" src="assets/images/ai2.gif" alt="ai gif" width=100/>|
 <img align="right" src="assets/images/ai.gif" alt="ai gif" width=100/>|
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasswaraich&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
