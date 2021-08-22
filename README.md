@@ -1,5 +1,5 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am ML Engineer @[BlackBerry](https://www.blackberry.com/us/en).Interested in AI/ML Systems and Software Engineering in general.
-#### Get in touch
+#### Get in [touch](<jass.waraich@icloud.com>)<img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif?cid=ecf05e47iz8ahrex574z6m3j7n6vdwg460frf44f5rb74mtq&rid=giphy.gif&ct=g" height="20px">
 
 <a href="https://www.linkedin.com/in/iamjaspreet/">
   <img align="left" alt="Jaspreet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
@@ -21,8 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-<img height=100 width=180 align="right" src="assets/images/ai2.gif" alt="ai gif" />
-<img height=100 width=100 align="right" src="assets/images/ai.gif" alt="ai gif" />
+<img height=400 width=400 align="right" src="assets/images/ai.gif" alt="ai gif" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasswaraich&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
