@@ -1,4 +1,5 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am ML Engineer @[BlackBerry](https://www.blackberry.com/us/en).Interested in AI/ML Systems and Software Engineering in general.
+
 #### Have crazy startup ideas or need help...!!! Get in [touch](mailto:jass.waraich@icloud.com)<img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif?cid=ecf05e47iz8ahrex574z6m3j7n6vdwg460frf44f5rb74mtq&rid=giphy.gif&ct=g" height="20">
 
 <a href="https://www.linkedin.com/in/iamjaspreet/">
@@ -25,6 +26,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasswaraich&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasswaraich&theme=cobalt "Jaspreet's Lang card")
+
+[![Jaspreet's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jass_waraich&theme=dark)]
 
 <!---
 jasswaraich/jasswaraich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
