@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/iamjaspreet/">
   <img align="left" alt="Jaspreet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
-<a href="https://twitter.com/TheJassWaraich">
+<a href="https://twitter.com/JaspreetWorld">
   <img align="left" alt="Jaspreet's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 
