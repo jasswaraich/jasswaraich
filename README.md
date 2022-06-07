@@ -1,4 +1,4 @@
-## Hello :wave: I am Software Developer @[BlackBerry](https://www.blackberry.com/us/en). Building Machine Learning Systems and Enterprise Software.
+## Hello :wave: I am Software Developer @[BlackBerry](https://www.blackberry.com/us/en) building Machine Learning Systems and Enterprise Software.
 
 #### Have crazy startup ideas or need help...!!! Get in [touch](mailto:jass.waraich@icloud.com)<img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif?cid=ecf05e47iz8ahrex574z6m3j7n6vdwg460frf44f5rb74mtq&rid=giphy.gif&ct=g" height="20">
 
